@@ -3,7 +3,9 @@
         {
             "name": "windows-gcc-x64",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:/msys64/mingw64/include/**",  // Путь к заголовкам Crypto++
+                "C:/msys64/mingw64/include/cryptopp"
             ],
             "defines": [
                 "_DEBUG",

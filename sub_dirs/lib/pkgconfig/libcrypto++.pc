@@ -1,0 +1,12 @@
+# Written by Alexander Rødseth <rodseth@gmail.com>
+
+prefix=/ucrt64
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libcrypto++
+Description: Description: Crypto++ cryptographic library
+URL: https://cryptopp.com/
+Version: 8.9.0
+Libs: -L${libdir} -lcryptopp
+Cflags: -I${includedir} 

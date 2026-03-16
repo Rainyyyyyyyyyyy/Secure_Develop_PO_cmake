@@ -1,7 +1,7 @@
 [
 {
   "directory": "E:/Z_vsyakoe_dla_echeby/4k2sem/SEcure_Develop_PO(Andreeva)/laba1/try2/build",
-  "command": "C:/msys64/ucrt64/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/MyProgram.dir/main.cpp.obj -c \"E:/Z_vsyakoe_dla_echeby/4k2sem/SEcure_Develop_PO(Andreeva)/laba1/try2/main.cpp\"",
+  "command": "C:/msys64/ucrt64/bin/g++.exe  @CMakeFiles/MyProgram.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/MyProgram.dir/main.cpp.obj -c \"E:/Z_vsyakoe_dla_echeby/4k2sem/SEcure_Develop_PO(Andreeva)/laba1/try2/main.cpp\"",
   "file": "E:/Z_vsyakoe_dla_echeby/4k2sem/SEcure_Develop_PO(Andreeva)/laba1/try2/main.cpp",
   "output": "CMakeFiles/MyProgram.dir/main.cpp.obj"
 }

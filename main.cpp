@@ -3,6 +3,21 @@
 #include <filesystem>
 #include <vector>
 
+
+#include <cryptopp/files.h>
+#include <cryptopp/aes.h>
+#include <cryptopp/modes.h>
+#include <cryptopp/osrng.h>
+
+// написать функцию шифрования
+// написать функицю дешифрования
+// написать функцию проверки шифрованности (не шифровать если зашифровано и наоборот)
+
+// обернуть в класс (синглтон)
+
+
+
+
 namespace fs = std::filesystem; // для сокращения
 
 // Вспомогательная функция для вывода отступа
